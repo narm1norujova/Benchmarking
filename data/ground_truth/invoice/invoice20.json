@@ -1,0 +1,38 @@
+{
+  "seller_name": "TEKNO YAPI KİMYASALLARI SAN. VE TİC. A. Ş.",
+  "items": [
+    {
+      "item_name": "TEKNOSELF - 25 KG",
+      "quantity": 11.6,
+      "unit_price": 0.291,
+      "total_price": 3375.6
+    },
+    {
+      "item_name": "TEKNOFAY EX BEYAZ - 25 KG",
+      "quantity": 1600,
+      "unit_price": 0.259,
+      "total_price": 414.4
+    },
+    {
+      "item_name": "TEKNODERZ EX BEYAZ - 20 KG",
+      "quantity": 1280,
+      "unit_price": 0.278,
+      "total_price": 355.84
+    },
+    {
+      "item_name": "TEKNOMER 205 SIVI",
+      "quantity": 640,
+      "unit_price": 0.69,
+      "total_price": 441.6
+    },
+    {
+      "item_name": "TEKNOMER 205 TOZ",
+      "quantity": 1600,
+      "unit_price": 0.69,
+      "total_price": 1104.0
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": 5691.44,
+  "currency": "USD"
+}

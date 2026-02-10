@@ -1,0 +1,34 @@
+{ 
+  "seller_name": "KOREA AUTOPARTS CO.LTD.",
+  "fields": {
+    "field_6": "3470",
+    "field_10": {
+      "subfield_a": "",
+      "subfield_b": ""
+    },
+    "field_15": "Cənubi Korea",
+    "field_15a": {
+      "subfield_a": "KR",
+      "subfield_b": "410"
+    },
+    "field_17": "Azərbaycan",
+    "field_17a": {
+      "subfield_a": "AZ",
+      "subfield_b": "31"
+    },
+    "field_18": {
+      "subfield_left": "",
+      "subfield_right": ""
+    },
+    "field_19": "0",
+    "field_21": {
+      "subfield_left": "",
+      "subfield_right": ""
+    },
+    "field_31": {
+      "subfield_1_left": "",
+      "subfield_1_right": "",
+      "subfield_2": null
+    }
+  }
+}

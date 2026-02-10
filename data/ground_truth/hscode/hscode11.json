@@ -1,0 +1,533 @@
+{
+  "seller_name": "KOREA AUTOPARTS CO.LTD.",
+  "items": [
+    {
+      "item_name": "SET DOUBLE CLUTCH",
+        "hs_code": "8708939000"
+    },
+    {
+      "item_name": "FILTER ASSY-ENGINE OIL",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "FILTER ASSY-ENGINE OIL",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "V-RIBBED BELT",
+        "hs_code": "4010390000"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "V-RIBBED BELT",
+        "hs_code": "4010390000"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SHAFT ASSY-BALANCE",
+        "hs_code": "8483109500"
+    },
+    {
+      "item_name": "COIL ASSY-IGNITION",
+        "hs_code": "8511300009"
+    },
+    {
+      "item_name": "COIL ASSY-IGNITION",
+        "hs_code": "8511300009"
+    },
+    {
+      "item_name": "COVER ASSY-T/CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "COVER ASSY-TIMING CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "PUMP ASSY-COOLANT",
+        "hs_code": "8413308009"
+    },
+    {
+      "item_name": "PUMP ASSY-COOLANT",
+        "hs_code": "8413308009"
+    },
+    {
+      "item_name": "PUMP ASSY-COOLANT",
+        "hs_code": "8413308009"
+    },
+    {
+      "item_name": "PUMP ASSY-OIL",
+        "hs_code": "8413308009"
+    },
+    {
+      "item_name": "OIL-ENGINE(GASOLINE)",
+        "hs_code": "2710198200"
+    },
+    {
+      "item_name": "AUTO MISSION OIL",
+        "hs_code": "2710198200"
+    },
+    {
+      "item_name": "OIL-ENGINE",
+        "hs_code": "2710198200"
+    },
+    {
+      "item_name": "OIL-ENGINE(DIESEL) CPF",
+        "hs_code": "2710198200"
+    },
+    {
+      "item_name": "COVER ASSY-TIMING CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "COVER ASSY-T/CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "COVER ASSY-T/CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "COVER ASSY-T/CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "COVER ASSY-T/CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "COVER ASSY-TIMING CHAIN & OIL",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "FLYWHEEL ASSY",
+        "hs_code": "8483508000"
+    },
+    {
+      "item_name": "COVER ASSY-TIMING CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "RING SET-PISTON",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "RING SET-PISTON",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "PUMP-HIGH PRESSURE",
+        "hs_code": "8413302009"
+    },
+    {
+      "item_name": "BEARING SET-DOUBLE CLUTCH",
+        "hs_code": "8708939000"
+    },
+    {
+      "item_name": "VALVE ASSY-EGR",
+         "hs_code": "8481401000"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "FILTER CARTRIDGE",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "FILTER CARTRIDGE",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SHAFT ASSY-BALANCE",
+        "hs_code": "8483109500"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER FR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BEARING-CLUTCH RELEASE",
+        "hs_code": "8708939000"
+    },
+    {
+      "item_name": "RING SET-PISTON",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "RING SET-PISTON",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "CVVT ASSY-INTAKE",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "CVVT ASSY-EXHAUST",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "VALVE ASSY-EGR",        
+        "hs_code": "8481401000"
+    },
+    {
+      "item_name": "VALVE ASSY-EGR",
+        "hs_code": "8481401000"
+    },
+    {
+      "item_name": "ACTUATOR-TURBO CHARGER",
+        "hs_code": "8501109900"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSAXLE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY ROLL STOPPER-FR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER FR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "INSULATOR ASSY-STRUT",
+        "hs_code": "8708809900"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSMISSION MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSAXLE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "INSULATOR ASSY-STRUT",
+        "hs_code": "8708809900"
+    },
+    {
+      "item_name": "BRKT ASSY-ROLL ROD",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL ROD",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRKT ASSY-ROLL ROD",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "RING SET-PISTON",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "GUIDE-OIL PUMP",
+        "hs_code": "3926909709"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER RR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "RIBBED BELT-V",
+        "hs_code": "4010390000"
+    },
+    {
+      "item_name": "PULLEY-IDLER",
+        "hs_code": "8483508000"
+    },
+    {
+      "item_name": "GUIDE-OIL PUMP",
+        "hs_code": "3926909709"
+    },
+    {
+      "item_name": "BRKT ASSY-ROLL ROD",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL ROD",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER FR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSAXLE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER FR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSAXLE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSAXLE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER FR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSMISSION MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER FR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "INSULATOR-HYDRAULIC",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "ARM ASSY-RR TRAILING ARM,LH",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSAXLE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "OIL-ENGINE(DIESEL) CPF",
+        "hs_code": "2710198200"
+    },
+    {
+      "item_name": "COIL ASSY-IGNITION",
+        "hs_code": "8511300009"
+    },
+    {
+      "item_name": "COIL ASSY-IGNITION",
+        "hs_code": "8511300009"
+    },
+    {
+      "item_name": "OIL-ENGINE(GASOLINE)",
+        "hs_code": "2710198200"
+    },
+    {
+      "item_name": "OIL-ENGINE(DIESEL) CPF",
+        "hs_code": "2710198200"
+    },
+    {
+      "item_name": "OIL-ENGINE(DIESEL)",
+        "hs_code": "2710198200"
+    },
+    {
+      "item_name": "TENSIONER-T/BELT",
+        "hs_code": "8483508000"
+    },
+    {
+      "item_name": "CHAIN-OIL PUMP",
+        "hs_code": "7315119000"
+    },
+    {
+      "item_name": "CHAIN-TIMING",
+        "hs_code": "7315120000"
+    },
+    {
+      "item_name": "TENSIONER ASSY-TIMING CHAIN",
+        "hs_code": "8483508000"
+    },
+    {
+      "item_name": "HYDR. TENSIONER ASSY",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "TENSIONER ASSY-TIMING CHAIN",
+        "hs_code": "8409910000"
+    },
+    {
+      "item_name": "CHAIN-TIMING",
+        "hs_code": "7315120000"
+    },
+    {
+      "item_name": "TENSIONER-T/BELT",
+        "hs_code": "8483508000"
+    },
+    {
+      "item_name": "PLUG ASSY-SPARK",
+        "hs_code": "8511100009"
+    },
+    {
+      "item_name": "TENSIONER ASSY",
+        "hs_code": "8483508000"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER(2)",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER(2)",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "FILTER-FUEL PUMP",
+        "hs_code": "8421290009"
+    },
+    {
+      "item_name": "SERVICE KIT-OIL FILTER(2)",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ENGINE MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "INSULATOR-HYDRAULIC",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-TRANSMISSION MTG",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRKT ASSY-ROLL ROD",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "COIL ASSY-IGNITION",
+        "hs_code": "8511300009"
+    },
+    {
+      "item_name": "COIL ASSY-IGNITION",
+        "hs_code": "8511300009"
+    },
+    {
+      "item_name": "COIL ASSY-IGNITION",
+        "hs_code": "8511300009"
+    },
+    {
+      "item_name": "COIL ASSY-IGNITION",
+        "hs_code": "8511300009"
+    },
+    {
+      "item_name": "FILTER ASSY-VALVE BODY OIL",
+        "hs_code": "8421230009"
+    },
+    {
+      "item_name": "PLUG ASSY-SPARK",        
+        "hs_code": "8511100009"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER FR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL STOPPER RR",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "BRACKET ASSY-ROLL ROD",
+        "hs_code": "8708999700"
+    },
+    {
+      "item_name": "PULLEY-IDLER",
+        "hs_code": "8483508000"
+    },
+    {
+      "item_name": "OIL-ENGINE(DIESEL)",
+        "hs_code": "2710198200"
+    }
+  ]
+}

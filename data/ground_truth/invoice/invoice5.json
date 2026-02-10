@@ -1,0 +1,116 @@
+{
+  "seller_name": "BC FIBER OPTIK SANAYI VE TICARET ANONIM SIRKETI",
+  "items": [
+    {
+      "item_name": "LC/UPC LC/UPC MM OM4 Patchcords DX 2.0MM LSZH L:1.0M Purple",
+      "quantity": 32,
+      "unit_price": 2.55,
+      "total_price": 81.6
+    },
+    {
+      "item_name": "LC/UPC LC/UPC MM OM4 Patchcords DX 2.0MM LSZH L:2.0M Purple",
+      "quantity": 32,
+      "unit_price": 3.05,
+      "total_price": 97.6
+    },
+    {
+      "item_name": "LC/UPC LC/UPC MM OM4 Patchcords DX 2.0MM LSZH L:3.0M Purple",
+      "quantity": 32,
+      "unit_price": 3.5,
+      "total_price": 112.0
+    },
+    {
+      "item_name": "LC/UPC LC/UPC MM OM4 Patchcords DX 2.0MM LSZH L:0.5M Purple",
+      "quantity": 32,
+      "unit_price": 2.55,
+      "total_price": 81.6
+    },
+    {
+      "item_name": "LC/UPC LC/UPC SM G652D Patchcords DX 3.0MM LSZH L:1.0M Yellow",
+      "quantity": 50,
+      "unit_price": 2.15,
+      "total_price": 107.5
+    },
+    {
+      "item_name": "LC/UPC LC/UPC SM G652D Patchcords DX 3.0MM LSZH L:10.0M Yellow",
+      "quantity": 10,
+      "unit_price": 3.45,
+      "total_price": 34.5
+    },
+    {
+      "item_name": "SC/UPC LC/UPC SM G652D Patchcords DX 3.0MM LSZH L:3.0M Yellow",
+      "quantity": 20,
+      "unit_price": 2.35,
+      "total_price": 47.0
+    },
+    {
+      "item_name": "LC/UPC LC/UPC MM OM3 Patchcords DX 2.0MM LSZH L:2.0M Aqua",
+      "quantity": 15,
+      "unit_price": 2.25,
+      "total_price": 33.75
+    },
+    {
+      "item_name": "SC/UPC LC/UPC SM G652D Patchcords DX 3.0MM LSZH L:10.0M Yellow",
+      "quantity": 10,
+      "unit_price": 3.45,
+      "total_price": 34.5
+    },
+    {
+      "item_name": "LC/UPC SM G652D Pigtails LSZH 0.9MM Easy Strip L:1.5M Yellow",
+      "quantity": 1200,
+      "unit_price": 0.45,
+      "total_price": 540.0
+    },
+    {
+      "item_name": "Splice protector 60mm x 1.2mm steel rod 100pcs/bag 35GIFT60",
+      "quantity": 4000,
+      "unit_price": 0.06,
+      "total_price": 220.0
+    },
+    {
+      "item_name": "Adapter LC/UPC With Flange Quad MM Aqua Two Piece Body",
+      "quantity": 500,
+      "unit_price": 1.1,
+      "total_price": 550.0
+    },
+    {
+      "item_name": "LC/UPC LC/UPC MM OM3 Patchcords DX 2.0MM LSZH L:3.0 Aqua",
+      "quantity": 20,
+      "unit_price": 2.6,
+      "total_price": 52.0
+    },
+    {
+      "item_name": "SC/UPC LC/UPC SM G652D Patchcords DX 3.0MM LSZH L:3.0M Yellow",
+      "quantity": 50,
+      "unit_price": 2.1,
+      "total_price": 105.0
+    },
+    {
+      "item_name": "SC/UPC LC/UPC SM G652D Patchcords DX 3.0MM LSZH L:5.0M Yellow",
+      "quantity": 40,
+      "unit_price": 2.4,
+      "total_price": 96.0
+    },
+    {
+      "item_name": "SC/UPC LC/UPC SM G652D Patchcords DX 3.0MM LSZH L:10.0M Yellow",
+      "quantity": 40,
+      "unit_price": 3.15,
+      "total_price": 126.0
+    },
+    {
+      "item_name": "SC/UPC SC/UPC SM G652D Patchcords DX 3.0MM LSZH L:3.0M Yellow",
+      "quantity": 50,
+      "unit_price": 2.1,
+      "total_price": 105.0
+    },
+    {
+      "item_name": "LC/UPC MM OM3 Patchcords DX 2.0MM LSZH L:10.0M Aqua",
+      "quantity": 15,
+      "unit_price": 4.65,
+      "total_price": 69.75
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": null,
+  "currency": "USD"
+}

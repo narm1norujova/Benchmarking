@@ -1,0 +1,14 @@
+{
+  "n_items": 5,
+  "accuracy": "100.00 %",
+  "correct": 5,
+  "missing_items": 0,
+  "extra_items": 0,
+  "per_type": {
+    "invoys": "100.00 %",
+    "cmr": "100.00 %",
+    "gb qoşma": "100.00 %",
+    "gb əlavə": "100.00 %",
+    "gb": "100.00 %"
+  }
+}

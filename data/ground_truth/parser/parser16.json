@@ -1,0 +1,34 @@
+{ 
+  "seller_name": "GORCCI INTERNATIONAL LIMITED",
+  "fields": {
+    "field_6": "350 CTNS",
+    "field_10": {
+      "subfield_a": "",
+      "subfield_b": ""
+    },
+    "field_15": "",
+    "field_15a": {
+      "subfield_a": "",
+      "subfield_b": ""
+    },
+    "field_17": "Azərbaycan",
+    "field_17a": {
+      "subfield_a": "AZ",
+      "subfield_b": "31"
+    },
+    "field_18": {
+      "subfield_left": "27AA593, 95AM300",
+      "subfield_right": ""
+    },
+    "field_19": "0",
+    "field_21": {
+      "subfield_left": "27AA593, 95AM300",
+      "subfield_right": ""
+    },
+    "field_31": {
+      "subfield_1_left": "",
+      "subfield_1_right": "",
+      "subfield_2": null
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "seller_name": "KELEŞ KONFEKSİYON ELEKTRİK İNŞAAT TAAH.VE GIDA TİCARET İHR. İTH. LTD. ŞTİ.",
+  "items": [
+    {
+      "item_name": "REBOND SA 3000",
+        "hs_code": "3905210000"
+    },
+    {
+      "item_name": "REBOND AB 1018",
+        "hs_code": "3905210000"
+    },
+    {
+      "item_name": "REBOND PUR 252",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "REBOND PUR 250",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "REBOND THB 13",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "REBOND SR 250 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3215190000"
+    },
+    {
+      "item_name": "REBOND SY (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3215110000"
+    },
+    {
+      "item_name": "REBOND BY (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3215190000"
+    },
+    {
+      "item_name": "REBOND KV (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3215190000"
+    },
+    {
+      "item_name": "REBOND TS250 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "REBOND HM100 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "REBOND PU777 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "REBOND MPU800 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "REBOND AQUA 1K-100 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+        "hs_code": "3209100000"
+    },
+    {
+      "item_name": "TEKNOMER 205 TOZ",
+        "hs_code": "3214109000"
+    },
+    {
+      "item_name": "TEKNODERZ CX BEYAZ -20 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOFAY EX BEYAZ -25 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOSEL FLV 100-25 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOGROUT 350-25 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOMER 205 SIVI EX",
+        "hs_code": "3214109000"
+    }
+  ]
+}

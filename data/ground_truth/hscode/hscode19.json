@@ -1,0 +1,41 @@
+{
+  "seller_name": "ARMADA ORMAN ÜRÜNLERİ VE HIRDAVAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+  "items": [
+    {
+      "item_name": "TECHNOMELT KS 207 (25KG)",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "TECHNOMELT KS 224/2 (25KG)",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "HENKEL LOCTITE 406 20GR",
+        "hs_code": "3506100000"
+    },
+    {
+      "item_name": "HENKEL LOCTITE SF 7063 400ML",
+        "hs_code": "3814009009"
+    },
+    {
+      "item_name": "TECHNOMELT KS 215 (25KG)",
+        "hs_code": "3814009009"
+    },
+    {
+      "item_name": "AQUACE FD 144/3 MEMBRAN TUTKALI (30KG)",
+        "hs_code": "3909509000"
+    },
+    {
+      "item_name": "TECHNOMELT GA 3116 (25KG)",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "AQUENCE LAM 1525 (30KG)",
+        "hs_code": "3905300000"
+    },
+    {
+      "item_name": "AQUENCE LAM 0105 (30KG)",
+        "hs_code": "3905300000"
+    }
+  ]
+}

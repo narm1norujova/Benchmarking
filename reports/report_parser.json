@@ -1,0 +1,26 @@
+{
+  "total_fields": 18,
+  "overall_accuracy": "83.33 %",
+  "fields": {
+    "seller_name": "0.00 %",
+    "fields.field_6": "100.00 %",
+    "fields.field_10.subfield_a": "0.00 %",
+    "fields.field_10.subfield_b": "0.00 %",
+    "fields.field_15": "100.00 %",
+    "fields.field_15a.subfield_a": "100.00 %",
+    "fields.field_15a.subfield_b": "100.00 %",
+    "fields.field_17": "100.00 %",
+    "fields.field_17a.subfield_a": "100.00 %",
+    "fields.field_17a.subfield_b": "100.00 %",
+    "fields.field_18.subfield_left": "100.00 %",
+    "fields.field_18.subfield_right": "100.00 %",
+    "fields.field_19": "100.00 %",
+    "fields.field_21.subfield_left": "100.00 %",
+    "fields.field_21.subfield_right": "100.00 %",
+    "fields.field_31.subfield_1_left": "100.00 %",
+    "fields.field_31.subfield_1_right": "100.00 %",
+    "fields.field_31.subfield_2": "100.00 %"
+  },
+  "time_seconds": "0.00 sec",
+  "price": "$0.00"
+}

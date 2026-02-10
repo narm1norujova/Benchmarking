@@ -1,0 +1,20 @@
+{
+  "seller_name": "TAMBULI LTD.",
+  "items": [
+    {
+      "item_name": "CUT AND BUNCHED JULIETTA SPRAY ROSES 50cm",
+      "quantity": 1182,
+      "unit_price": 0.69,
+      "total_price": 815.58
+    },
+    {
+      "item_name": "CUT AND BUNCHED ROSES 52cm",
+      "quantity": 336,
+      "unit_price": 0.55,
+      "total_price": 184.8
+    }
+  ],
+  "sum_total_quantity": 1518,
+  "sum_total_price": 1000.38,
+  "currency": "USD"
+}

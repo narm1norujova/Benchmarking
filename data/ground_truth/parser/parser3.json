@@ -1,0 +1,34 @@
+{
+  "seller_name": "ENSEL ELEKTRIK MALZEMELERI SANAYI İÇ VE DIŞ TİCARET LTD.ŞTİ.",
+  "fields": {
+    "field_6": "95 KAP",
+    "field_10": {
+      "subfield_a": "",
+      "subfield_b": ""
+    },
+    "field_15": "Türkiyə",
+    "field_15a": {
+      "subfield_a": "TR",
+      "subfield_b": "792"
+    },
+    "field_17": "Azərbaycan",
+    "field_17a": {
+      "subfield_a": "AZ",
+      "subfield_b": "31"
+    },
+    "field_18": {
+      "subfield_left": "61 BV 142, 61 HS 673",
+      "subfield_right": ""
+    },
+    "field_19": "0",
+    "field_21": {
+      "subfield_left": "61 BV 142, 61 HS 673",
+      "subfield_right": ""
+    },
+    "field_31": {
+      "subfield_1_left": "",
+      "subfield_1_right": "",
+      "subfield_2": null
+    }
+  }
+}

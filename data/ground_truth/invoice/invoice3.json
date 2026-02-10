@@ -1,0 +1,332 @@
+{
+  "seller_name": "ENSEL ELEKTRIK MALZEMELERI SANAYI İÇ VE DIŞ TİCARET LTD.ŞTİ.",
+  "items": [
+    {
+      "item_name": "Fiber Klavuz Makarası 12mm 1000mt'lik Arabalı",
+      "quantity": 5,
+      "unit_price": 250.0,
+      "total_price": 1250.0
+    },
+    {
+      "item_name": "Fiber Klavuz Makarası 12mm 150mt'lik Arabalı",
+      "quantity": 5,
+      "unit_price": 340.0,
+      "total_price": 1700.0
+    },
+    {
+      "item_name": "Fiber Klavuz Makarası 12mm 200mt'lik Arabalı",
+      "quantity": 2,
+      "unit_price": 434.0,
+      "total_price": 868.0
+    },
+    {
+      "item_name": "16mm İzolesiz Kablo Ucu",
+      "quantity": 500,
+      "unit_price": 0.345,
+      "total_price": 172.5
+    },
+    {
+      "item_name": "20mm H.Free Alev Yaymayan Boru Turuncu",
+      "quantity": 3000,
+      "unit_price": 0.2,
+      "total_price": 600.0
+    },
+    {
+      "item_name": "25mm H.Free Alev Yaymayan Boru Turuncu",
+      "quantity": 3000,
+      "unit_price": 0.3,
+      "total_price": 900.0
+    },
+    {
+      "item_name": "32mm H.Free Alev Yaymayan Boru Turuncu",
+      "quantity": 500,
+      "unit_price": 0.47,
+      "total_price": 235.0
+    },
+    {
+      "item_name": "Mühür Penseleri",
+      "quantity": 6,
+      "unit_price": 27.5,
+      "total_price": 165.0
+    },
+    {
+      "item_name": "Plastik Başlı Civata M6x25",
+      "quantity": 2000,
+      "unit_price": 0.11,
+      "total_price": 220.0
+    },
+    {
+      "item_name": "Gres Pompası Yedek Ucu",
+      "quantity": 20,
+      "unit_price": 2.3,
+      "total_price": 46.0
+    },
+    {
+      "item_name": "Polyester Çember Arabası",
+      "quantity": 10,
+      "unit_price": 59.5,
+      "total_price": 595.0
+    },
+    {
+      "item_name": "4,0-6,0mm Erkek Faston Terminali",
+      "quantity": 2000,
+      "unit_price": 0.035,
+      "total_price": 70.0
+    },
+    {
+      "item_name": "Ray Klemens 4mm2 Mavi",
+      "quantity": 100,
+      "unit_price": 0.76,
+      "total_price": 76.0
+    },
+    {
+      "item_name": "4 Kontak Ray Tipi Takılabilir Soket",
+      "quantity": 50,
+      "unit_price": 6.37,
+      "total_price": 318.5
+    },
+    {
+      "item_name": "24V DC 4sA Kontak Röle",
+      "quantity": 50,
+      "unit_price": 5.6,
+      "total_price": 280.0
+    },
+    {
+      "item_name": "RE-Y(St)-Y-Fl BLACK 1x3x1,5 mm² 500V",
+      "quantity": 515,
+      "unit_price": 1.61,
+      "total_price": 829.15
+    },
+    {
+      "item_name": "Acil Çıkış Armatürü Ledli Exit",
+      "quantity": 60,
+      "unit_price": 3.86,
+      "total_price": 231.6
+    },
+    {
+      "item_name": "Acil Çıkış Armatürü Ledli Exit",
+      "quantity": 20,
+      "unit_price": 3.86,
+      "total_price": 77.2
+    },
+    {
+      "item_name": "Acil Çıkış Armatürü Ledli Exit",
+      "quantity": 20,
+      "unit_price": 3.86,
+      "total_price": 77.2
+    },
+    {
+      "item_name": "Acil Çıkış Armatürü Ledli Exit",
+      "quantity": 20,
+      "unit_price": 3.86,
+      "total_price": 77.2
+    },
+    {
+      "item_name": "Acil Çıkış Armatürü Ledli Exit",
+      "quantity": 20,
+      "unit_price": 3.86,
+      "total_price": 77.2
+    },
+    {
+      "item_name": "Acil Çıkış Armatürü Ledli Exit",
+      "quantity": 20,
+      "unit_price": 3.86,
+      "total_price": 77.2
+    },
+    {
+      "item_name": "100-230V AC Led'li Yeşil Sinyal Blok",
+      "quantity": 30,
+      "unit_price": 3.13,
+      "total_price": 93.9
+    },
+    {
+      "item_name": "100-230V AC Led'li Kırmızı Sinyal Blok",
+      "quantity": 30,
+      "unit_price": 3.13,
+      "total_price": 93.9
+    },
+    {
+      "item_name": "9 Basamak Alüminyum Çift Çıkış Merdiven",
+      "quantity": 4,
+      "unit_price": 77.2,
+      "total_price": 308.8
+    },
+    {
+      "item_name": "Güvenlik Tapası (16-24) Mantar Tip",
+      "quantity": 1000,
+      "unit_price": 0.37,
+      "total_price": 370.0
+    },
+    {
+      "item_name": "4KW 9A 230V AC Sinus Kontaktör",
+      "quantity": 10,
+      "unit_price": 13.8,
+      "total_price": 138.0
+    },
+    {
+      "item_name": "Q22mm Sesli Led Flaşör İkazlı 220VAC",
+      "quantity": 10,
+      "unit_price": 2.61,
+      "total_price": 26.1
+    },
+    {
+      "item_name": "Q22mm Plastik Potansiyometre 5K",
+      "quantity": 10,
+      "unit_price": 6.56,
+      "total_price": 65.6
+    },
+    {
+      "item_name": "Q22mm Plastik Yaylı Buton-Start Buton 1NO",
+      "quantity": 200,
+      "unit_price": 2.17,
+      "total_price": 434.0
+    },
+    {
+      "item_name": "Q22mm Plastik İkiz Buton 1NO/1NC",
+      "quantity": 20,
+      "unit_price": 4.39,
+      "total_price": 87.8
+    },
+    {
+      "item_name": "Q22mm Plastik İkiz Buton İNO/İNC Ledli 220V",
+      "quantity": 10,
+      "unit_price": 6.23,
+      "total_price": 62.3
+    },
+    {
+      "item_name": "Q22mm Plastik Yaylı Buton-Stop Buton 1NC",
+      "quantity": 200,
+      "unit_price": 2.17,
+      "total_price": 434.0
+    },
+    {
+      "item_name": "3lü Boş Kumanda Kutusu",
+      "quantity": 20,
+      "unit_price": 3.11,
+      "total_price": 62.2
+    },
+    {
+      "item_name": "Stop Kontak 1NC",
+      "quantity": 200,
+      "unit_price": 1.15,
+      "total_price": 230.0
+    },
+    {
+      "item_name": "Start Kontak 1NO",
+      "quantity": 250,
+      "unit_price": 1.15,
+      "total_price": 287.5
+    },
+    {
+      "item_name": "Q22mm Plastik Mantar Buton 1NC Mantar Kaycı",
+      "quantity": 20,
+      "unit_price": 3.58,
+      "total_price": 71.6
+    },
+    {
+      "item_name": "Tek Hızlı 4+Acıl Stop Mekanik Kilitli Kontak 16A",
+      "quantity": 5,
+      "unit_price": 18.95,
+      "total_price": 94.75
+    },
+    {
+      "item_name": "BHD Yıldız Bitiş Uç 2 Yönlü Mıknatıslı ph2×65 10 Ad",
+      "quantity": 1,
+      "unit_price": 17.5,
+      "total_price": 17.5
+    },
+    {
+      "item_name": "Sensör",
+      "quantity": 3,
+      "unit_price": 48.65,
+      "total_price": 145.95
+    },
+    {
+      "item_name": "Alüminyum Sac Kesme Makası Sol",
+      "quantity": 9,
+      "unit_price": 19.0,
+      "total_price": 171.0
+    },
+    {
+      "item_name": "Dikey Saç Kaldırma Aparatı 1 TON",
+      "quantity": 2,
+      "unit_price": 92.35,
+      "total_price": 184.7
+    },
+    {
+      "item_name": "Dikey Saç Kaldırma Aparatı 2 TON",
+      "quantity": 2,
+      "unit_price": 122.7,
+      "total_price": 245.4
+    },
+    {
+      "item_name": "Metal Yakıt Bidonu 20Lt",
+      "quantity": 4,
+      "unit_price": 54.5,
+      "total_price": 218.0
+    },
+    {
+      "item_name": "DK-CX 1 Paslanmaz Kapaklı Kompakt Priz Kutusu 16M",
+      "quantity": 1,
+      "unit_price": 218.0,
+      "total_price": 218.0
+    },
+    {
+      "item_name": "Temizleyici Yağsızlaştırıcı 250 ml",
+      "quantity": 24,
+      "unit_price": 3.73,
+      "total_price": 89.52
+    },
+    {
+      "item_name": "Silikonsuz Gaz Altı Kaynak Spreyi 400 ml",
+      "quantity": 20,
+      "unit_price": 3.73,
+      "total_price": 74.6
+    },
+    {
+      "item_name": "Gaz Kaçak Arama Sprey 500 ml",
+      "quantity": 12,
+      "unit_price": 3.73,
+      "total_price": 44.76
+    },
+    {
+      "item_name": "Kesme ve Delme Yağı Sprey 500 ml",
+      "quantity": 12,
+      "unit_price": 3.96,
+      "total_price": 47.52
+    },
+    {
+      "item_name": "Blue Bird Temizleyici Köpük 500 ml",
+      "quantity": 12,
+      "unit_price": 3.96,
+      "total_price": 47.52
+    },
+    {
+      "item_name": "Blue Bird Sıvı Gres Sprey 500 ml",
+      "quantity": 12,
+      "unit_price": 4.1,
+      "total_price": 49.2
+    },
+    {
+      "item_name": "Blue Bird Antistatic Sprey 500 ml",
+      "quantity": 12,
+      "unit_price": 4.7,
+      "total_price": 56.4
+    },
+    {
+      "item_name": "Plastik Kaplama Sprey 250 ml",
+      "quantity": 12,
+      "unit_price": 3.52,
+      "total_price": 42.24
+    },
+    {
+      "item_name": "Temizleyici Yağlayıcı Sprey 250 ml",
+      "quantity": 12,
+      "unit_price": 2.95,
+      "total_price": 35.4
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": 13490.91,
+  "currency": "USD"
+}

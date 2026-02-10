@@ -1,0 +1,128 @@
+{
+  "seller_name": "KELEŞ KONFEKSİYON ELEKTRİK İNŞAAT TAAH.VE GIDA TİCARET İHR. İTH. LTD. ŞTİ.",
+  "items": [
+    {
+      "item_name": "REBOND SA 3000",
+      "quantity": 600,
+      "unit_price": 2.625,
+      "total_price": 1575.0
+    },
+    {
+      "item_name": "REBOND AB 1018",
+      "quantity": 1200,
+      "unit_price": 1.365,
+      "total_price": 1638.0
+    },
+    {
+      "item_name": "REBOND PUR 252",
+      "quantity": 540,
+      "unit_price": 1.15,
+      "total_price": 621.0
+    },
+    {
+      "item_name": "REBOND PUR 250",
+      "quantity": 60,
+      "unit_price": 1.15,
+      "total_price": 69.0
+    },
+    {
+      "item_name": "REBOND THB 13",
+      "quantity": 840,
+      "unit_price": 1.8,
+      "total_price": 1512.0
+    },
+    {
+      "item_name": "REBOND SR 250 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9
+    },
+    {
+      "item_name": "REBOND SY (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6
+    },
+    {
+      "item_name": "REBOND BY (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6
+    },
+    {
+      "item_name": "REBOND KV (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95
+    },
+    {
+      "item_name": "REBOND TS250 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 5,
+      "unit_price": 4.0,
+      "total_price": 20.0
+    },
+    {
+      "item_name": "REBOND HM100 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 5,
+      "unit_price": 3.5,
+      "total_price": 17.5
+    },
+    {
+      "item_name": "REBOND PU777 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 1,
+      "unit_price": 3.4,
+      "total_price": 3.4
+    },
+    {
+      "item_name": "REBOND MPU800 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 3,
+      "unit_price": 4.0,
+      "total_price": 12.0
+    },
+    {
+      "item_name": "REBOND AQUA 1K-100 (BEDELSİZ NUMUNEDİR-FREESAMPLE)",
+      "quantity": 3,
+      "unit_price": 4.25,
+      "total_price": 12.75
+    },
+    {
+      "item_name": "TEKNOMER 205 TOZ",
+      "quantity": 4800,
+      "unit_price": 0.7,
+      "total_price": 3360.0
+    },
+    {
+      "item_name": "TEKNODERZ CX BEYAZ -20 KG",
+      "quantity": 1280,
+      "unit_price": 0.26,
+      "total_price": 332.8
+    },
+    {
+      "item_name": "TEKNOFAY EX BEYAZ -25 KG",
+      "quantity": 4800,
+      "unit_price": 0.205,
+      "total_price": 984.0
+    },
+    {
+      "item_name": "TEKNOSEL FLV 100-25 KG",
+      "quantity": 550,
+      "unit_price": 0.16,
+      "total_price": 88.0
+    },
+    {
+      "item_name": "TEKNOGROUT 350-25 KG",
+      "quantity": 3750,
+      "unit_price": 0.173,
+      "total_price": 648.75
+    },
+    {
+      "item_name": "TEKNOMER 205 SIVI EX",
+      "quantity": 1920,
+      "unit_price": 0.7,
+      "total_price": 1344.0
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": 12248.25,
+  "currency": "USD"
+}

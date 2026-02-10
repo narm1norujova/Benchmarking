@@ -1,0 +1,62 @@
+{
+  "seller_name": "ROTA HIRDAVATÇILIK TİCARET VE SANAYİ A.Ş",
+  "items": [
+    {
+      "item_name": "LOCTITE SF 7200 400ML",
+      "quantity": 12,
+      "unit_price": 14.7,
+      "total_price": 176.4
+    },
+    {
+      "item_name": "LOCTITE SF 7063 400ML",
+      "quantity": 50,
+      "unit_price": 11.65,
+      "total_price": 582.5
+    },
+    {
+      "item_name": "LOCTITE 406 20G",
+      "quantity": 34,
+      "unit_price": 11.65,
+      "total_price": 396.1
+    },
+    {
+      "item_name": "KEPLİ YASTIK",
+      "quantity": 2500,
+      "unit_price": 0.37,
+      "total_price": 925.0
+    },
+    {
+      "item_name": "REBOND SA 3000",
+      "quantity": 600,
+      "unit_price": 2.39,
+      "total_price": 1434.0
+    },
+    {
+      "item_name": "REBOND YT 1018",
+      "quantity": 1200,
+      "unit_price": 1.29,
+      "total_price": 1548.0
+    },
+    {
+      "item_name": "REBOND PUR 252",
+      "quantity": 600,
+      "unit_price": 1.14,
+      "total_price": 684.0
+    },
+    {
+      "item_name": "HENKEL KS 207 HOTMELT TUTKAL",
+      "quantity": 6000,
+      "unit_price": 1.75,
+      "total_price": 10500.0
+    },
+    {
+      "item_name": "AQUENCE LAM 1525 (30KG)",
+      "quantity": 1080,
+      "unit_price": 2.04,
+      "total_price": 2203.2
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": 18449.2,
+  "currency": "USD"
+}

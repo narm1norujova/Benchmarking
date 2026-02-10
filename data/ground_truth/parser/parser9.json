@@ -1,0 +1,34 @@
+{ 
+  "seller_name": "Aerospheres (UK) Ltd.", 
+  "fields": {
+    "field_6": "1",
+    "field_10": {
+      "subfield_a": "",
+      "subfield_b": ""
+    },
+    "field_15": "Birləşmiş Krallıq",
+    "field_15a": {
+      "subfield_a": "GB",
+      "subfield_b": "826"
+    },
+    "field_17": "Azərbaycan",
+    "field_17a": {
+      "subfield_a": "AZ",
+      "subfield_b": "31"
+    },
+    "field_18": {
+      "subfield_left": "",
+      "subfield_right": ""
+    },
+    "field_19": "0",
+    "field_21": {
+      "subfield_left": "",
+      "subfield_right": ""
+    },
+    "field_31": {
+      "subfield_1_left": "",
+      "subfield_1_right": "",
+      "subfield_2": null
+    }
+  }
+}

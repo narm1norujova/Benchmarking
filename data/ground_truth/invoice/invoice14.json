@@ -1,0 +1,62 @@
+{
+  "seller_name": "TEKNO YAPI KİMYASALLARI SAN. VE TİC. A. Ş.",
+  "items": [
+    {
+      "item_name": "TEKNOGROUT 350 - 25 KG",
+      "quantity": 600,
+      "unit_price": 0.296,
+      "total_price": 177.6
+    },
+    {
+      "item_name": "TEKNOSELF LV 100 - 25 KG",
+      "quantity": 7500,
+      "unit_price": 0.159,
+      "total_price": 1192.5
+    },
+    {
+      "item_name": "TEKNOFAY EX BEYAZ - 25 KG",
+      "quantity": 4800,
+      "unit_price": 0.134,
+      "total_price": 643.2
+    },
+    {
+      "item_name": "TEKNOMER 200 SIVI",
+      "quantity": 320,
+      "unit_price": 0.453,
+      "total_price": 144.96
+    },
+    {
+      "item_name": "TEKNOMER 200 TOZ",
+      "quantity": 1280,
+      "unit_price": 0.453,
+      "total_price": 579.84
+    },
+    {
+      "item_name": "TEKNOMER 205 SIVI EX",
+      "quantity": 2560,
+      "unit_price": 0.69,
+      "total_price": 1766.4
+    },
+    {
+      "item_name": "TEKNOMER 205 TOZ",
+      "quantity": 6400,
+      "unit_price": 0.69,
+      "total_price": 4416.0
+    },
+    {
+      "item_name": "REBOND CONTACT ADHESIVE",
+      "quantity": 30,
+      "unit_price": 37.0,
+      "total_price": 1110.0
+    },
+    {
+      "item_name": "REBOND AQUA 1K-100",
+      "quantity": 200,
+      "unit_price": 4.25,
+      "total_price": 850.0
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": 10880.5,
+  "currency": "USD"
+}

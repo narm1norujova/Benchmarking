@@ -1,0 +1,26 @@
+{
+  "seller_name": "LLP \"GEODEVICE KAZAKHSTAN\"",
+  "items": [
+    {
+      "item_name": "MariMag HTG 300 m Marine Transverse Gradiometer / Морской поперечный градиометр MarikMag HTG 300m",
+      "quantity": 1,
+      "unit_price": 121195.0,
+      "total_price": 121195.0
+    },
+    {
+      "item_name": "Deck reel for towing cable / Палубная катушка для буксировочного кабеля",
+      "quantity": 1,
+      "unit_price": 3155.0,
+      "total_price": 3155.0
+    },
+    {
+      "item_name": "Доставка СПР - Баку, Азербайджан",
+      "quantity": 1,
+      "unit_price": 3500.0,
+      "total_price": 3500.0
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": 127850.0,
+  "currency": "USD"
+}

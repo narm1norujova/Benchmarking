@@ -1,0 +1,41 @@
+{
+  "seller_name": "TEKNO YAPI KİMYASALLARI SAN. VE TİC. A. Ş.",
+  "items": [
+    {
+      "item_name": "TEKNOGROUT 350 - 25 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOSELF LV 100 - 25 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOFAY EX BEYAZ - 25 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOMER 200 SIVI",
+        "hs_code": "3214109000"
+    },
+    {
+      "item_name": "TEKNOMER 200 TOZ",
+        "hs_code": "3214109000"
+    },
+    {
+      "item_name": "TEKNOMER 205 SIVI EX",
+        "hs_code": "3214109000"
+    },
+    {
+      "item_name": "TEKNOMER 205 TOZ",
+        "hs_code": "3214109000"
+    },
+    {
+      "item_name": "REBOND CONTACT ADHESIVE",
+        "hs_code": "3506910000"
+    },
+    {
+      "item_name": "REBOND AQUA 1K-100",
+        "hs_code": "3209100000"
+    }
+  ]
+}

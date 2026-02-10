@@ -1,0 +1,14 @@
+{
+  "seller_name": "GORCCI INTERNATIONAL LIMITED",
+  "items": [
+    {
+      "item_name": "Contact adhesive",
+      "quantity": 60,
+      "unit_price": 22.1,
+      "total_price": 1326.0
+    }
+  ],
+  "sum_total_quantity": 60,
+  "sum_total_price": 1326.0,
+  "currency": "USD"
+}

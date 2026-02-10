@@ -1,0 +1,25 @@
+{
+  "seller_name": "TEKNO YAPI KİMYASALLARI SAN. VE TİC. A. Ş.",
+  "items": [
+    {
+      "item_name": "TEKNOSELF - 25 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOFAY EX BEYAZ - 25 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNODERZ EX BEYAZ - 20 KG",
+        "hs_code": "3214900000"
+    },
+    {
+      "item_name": "TEKNOMER 205 SIVI",
+        "hs_code": "3214109000"
+    },
+    {
+      "item_name": "TEKNOMER 205 TOZ",
+        "hs_code": "3214109000"
+    }
+  ]
+}

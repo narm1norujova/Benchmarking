@@ -1,0 +1,26 @@
+{
+  "seller_name": "Ascensia Diabetes Care Holdings AG",
+  "items": [
+    {
+      "item_name": "CNTR PLUS RGT(AZU/ABY)KZ,50s,7644",
+      "quantity": 18432,
+      "unit_price": 4.55,
+      "total_price": 83865.6
+    },
+    {
+      "item_name": "CNTR TS RGT,RU(ru),50s,1918",
+      "quantity": 6048,
+      "unit_price": 4.55,
+      "total_price": 27518.4
+    },
+    {
+      "item_name": "CNTR PLUS,UA(AZ(uk)/az)mmol/L,7614",
+      "quantity": 2150,
+      "unit_price": 0.2,
+      "total_price": 430.0
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": 111814,
+  "currency": "EUR"
+}    

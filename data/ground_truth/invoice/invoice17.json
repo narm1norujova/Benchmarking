@@ -1,0 +1,26 @@
+{
+  "seller_name": "GORCCI INTERNATIONAL LIMITED",
+  "items": [
+    {
+      "item_name": "UPVC glue",
+      "quantity": 2000,
+      "unit_price": 0.48,
+      "total_price": 960.0
+    },
+    {
+      "item_name": "UPVC glue",
+      "quantity": 750,
+      "unit_price": 1.75,
+      "total_price": 1312.5
+    },
+    {
+      "item_name": "Caulking gun",
+      "quantity": 72,
+      "unit_price": 3.33,
+      "total_price": 239.76
+    }
+  ],
+  "sum_total_quantity": 2822,
+  "sum_total_price": 2512.26,
+  "currency": "USD"
+}

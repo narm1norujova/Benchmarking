@@ -1,0 +1,62 @@
+{
+  "seller_name": "ARMADA ORMAN ÜRÜNLERİ VE HIRDAVAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+  "items": [
+    {
+      "item_name": "TECHNOMELT KS 207 (25KG)",
+      "quantity": 4800,
+      "unit_price": 1.65,
+      "total_price": 7920.0
+    },
+    {
+      "item_name": "TECHNOMELT KS 224/2 (25KG)",
+      "quantity": 525,
+      "unit_price": 4.4,
+      "total_price": 2310.0
+    },
+    {
+      "item_name": "HENKEL LOCTITE 406 20GR",
+      "quantity": 89,
+      "unit_price": 11.75,
+      "total_price": 1045.75
+    },
+    {
+      "item_name": "HENKEL LOCTITE SF 7063 400ML",
+      "quantity": 12,
+      "unit_price": 11.75,
+      "total_price": 141.0
+    },
+    {
+      "item_name": "TECHNOMELT KS 215 (25KG)",
+      "quantity": 525,
+      "unit_price": 2.7,
+      "total_price": 1417.5
+    },
+    {
+      "item_name": "AQUACE FD 144/3 MEMBRAN TUTKALI (30KG)",
+      "quantity": 540,
+      "unit_price": 4.7,
+      "total_price": 2538.0
+    },
+    {
+      "item_name": "TECHNOMELT GA 3116 (25KG)",
+      "quantity": 675,
+      "unit_price": 4.4,
+      "total_price": 2970.0
+    },
+    {
+      "item_name": "AQUENCE LAM 1525 (30KG)",
+      "quantity": 540,
+      "unit_price": 1.9,
+      "total_price": 1026.0
+    },
+    {
+      "item_name": "AQUENCE LAM 0105 (30KG)",
+      "quantity": 180,
+      "unit_price": 2.0,
+      "total_price": 360.0
+    }
+  ],
+  "sum_total_quantity": null,
+  "sum_total_price": 19728.25,
+  "currency": "USD"
+}

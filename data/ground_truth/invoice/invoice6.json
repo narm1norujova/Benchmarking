@@ -1,0 +1,20 @@
+{
+  "seller_name": "MONA RABIEYANRAMEZANPOOR",
+  "items": [
+    {
+      "item_name": "Temizlenmiş Forel",
+      "quantity": 360,
+      "unit_price": 4.0,
+      "total_price": 22000.0
+    },
+    {
+      "item_name": "Temizlenmiş Beluga",
+      "quantity": 33,
+      "unit_price": 8.0,
+      "total_price": 12000.0
+    }
+  ],
+  "sum_total_quantity": 393,
+  "sum_total_price": 34000.0,
+  "currency": "USD"
+}
