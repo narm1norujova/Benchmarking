@@ -6,9 +6,10 @@ import sys
 import time
 from difflib import SequenceMatcher
 from typing import Any, Dict, List, Optional
+import os
+from datetime import datetime
 
 _DIGITS_RE = re.compile(r"\D+")
-
 
 def load_json(path: str) -> Dict[str, Any]:
     with open(path, "r", encoding="utf-8") as f:
@@ -36,11 +37,7 @@ def compare_strings(y: Any, pred: Any, threshold: float = 0.85) -> int:
 
 
 def normalize_hs(code: Any) -> str:
-    """
-    Rules:
-    - hs code must be digits only (we strip non-digits)
-    - we keep the cleaned digits string
-    """
+
     if code is None:
         return ""
     s = str(code).strip()
@@ -73,19 +70,16 @@ def evaluate(gt: Dict[str, Any], pred: Dict[str, Any], *, min_sim: float) -> Dic
     n_pr = len(pr_items)
     n = max(n_gt, 1)
 
-    # Seller + item_name matches (based on index alignment)
     seller_match = compare_strings(gt.get("seller_name"), pred.get("seller_name"), threshold=min_sim)
 
     items_to_compare = min(n_gt, n_pr)
     item_name_matches = 0
 
-    # HS validity counters
     gt_valid_10 = 0
     gt_valid_6 = 0
     pr_valid_10 = 0
     pr_valid_6 = 0
 
-    # Prefix accuracies 1..10 over GT items (index-aligned)
     prefix_hits = {k: 0 for k in range(1, 11)}
 
     for i in range(n_gt):
@@ -98,7 +92,6 @@ def evaluate(gt: Dict[str, Any], pred: Dict[str, Any], *, min_sim: float) -> Dic
 
         if i < n_pr:
             p = pr_items[i] or {}
-            # item_name match (only where we have pred item)
             item_name_matches += compare_strings(g.get("item_name"), p.get("item_name"), threshold=min_sim)
 
             p_hs = normalize_hs(p.get("hs_code"))
@@ -110,15 +103,13 @@ def evaluate(gt: Dict[str, Any], pred: Dict[str, Any], *, min_sim: float) -> Dic
             for k in range(1, 11):
                 prefix_hits[k] += prefix_match(g_hs, p_hs, k)
 
-    # Convert to percentages
     gt_10_pct = (gt_valid_10 / n_gt * 100.0) if n_gt else 0.0
     gt_6_pct = (gt_valid_6 / n_gt * 100.0) if n_gt else 0.0
-    pr_10_pct = (pr_valid_10 / n_gt * 100.0) if n_gt else 0.0  # normalized by GT count like your screenshot
+    pr_10_pct = (pr_valid_10 / n_gt * 100.0) if n_gt else 0.0  
     pr_6_pct = (pr_valid_6 / n_gt * 100.0) if n_gt else 0.0
 
     acc = {k: (prefix_hits[k] / n_gt * 100.0) if n_gt else 0.0 for k in range(1, 11)}
 
-    # Item name match % over GT items (index-aligned portion contributes; missing preds count as 0)
     item_name_pct = (item_name_matches / n_gt * 100.0) if n_gt else 0.0
     seller_pct = seller_match * 100.0
 
@@ -142,7 +133,7 @@ def main():
     ap = argparse.ArgumentParser(description="Benchmark HS code generation (prefix accuracy 1..10)")
     ap.add_argument("--gt", required=True, help="Ground truth JSON file")
     ap.add_argument("--pred", required=True, help="Prediction JSON file")
-    ap.add_argument("--out", required=True, help="Output report JSON file")
+    ap.add_argument("--out", default=None, help="Output report JSON file (optional)")
     ap.add_argument("--min-sim", type=float, default=0.85, help="SequenceMatcher threshold for seller/item names")
     ap.add_argument("--price", default="$0.00", help="Optional price string to write in report (default: $0.00)")
     args = ap.parse_args()
@@ -160,11 +151,9 @@ def main():
         report = {
             "n_items": res["n_items"],
 
-            # + seller/item benchmarks (you asked to include these)
             "seller_name_match_table": f"{res['seller_name_match']:.2f} %",
             "item_name_match_table": f"{res['item_name_match_table']:.2f} %",
 
-            # like your screenshot
             "y_10_match_table": f"{res['y_10_match_table']:.2f} %",
             "y_6_match_table": f"{res['y_6_match_table']:.2f} %",
             "pred_10_match_table": f"{res['pred_10_match_table']:.2f} %",
@@ -177,8 +166,14 @@ def main():
             "price": args.price,
         }
 
-        # Terminal summary (simple)
         print(json.dumps(report, ensure_ascii=False, indent=2))
+
+        if args.out is None:
+            os.makedirs("reports", exist_ok=True)
+            ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+            args.out = f"reports/report_hscode_{ts}.json"
+        else:
+            os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
 
         with open(args.out, "w", encoding="utf-8") as f:
             json.dump(report, f, ensure_ascii=False, indent=2)

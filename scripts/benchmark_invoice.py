@@ -4,6 +4,8 @@ import sys
 import time
 from difflib import SequenceMatcher
 import argparse
+import os
+from datetime import datetime
 
 
 def process_file(file_path):
@@ -80,7 +82,7 @@ def main():
     parser = argparse.ArgumentParser(description="Benchmark invoice processing")
     parser.add_argument("--gt", required=True, help="Ground truth JSON file")
     parser.add_argument("--pred", required=True, help="Prediction JSON file")
-    parser.add_argument("--out", required=True, help="Output report JSON file")
+    parser.add_argument("--out", default=None, help="Output report JSON file (optional)")
     args = parser.parse_args()
 
     start_time = time.time()
@@ -151,6 +153,14 @@ def main():
         print(f"Time: {result['time_seconds']}")
         print(f"Price: {result['price']}")
         print("=" * 50)
+
+        if args.out is None:
+            os.makedirs("reports", exist_ok=True)
+            ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+            args.out = f"reports/report_invoice_{ts}.json"
+        else:
+            os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
+
 
         with open(args.out, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=2)

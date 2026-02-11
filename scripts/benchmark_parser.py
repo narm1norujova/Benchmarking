@@ -4,7 +4,8 @@ import sys
 import time
 import argparse
 from difflib import SequenceMatcher
-
+import os
+from datetime import datetime
 
 def process_file(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
@@ -93,6 +94,19 @@ def main():
     }
 
     print(json.dumps(report, indent=2, ensure_ascii=False))
+
+    if args.out is None:
+        os.makedirs("reports", exist_ok=True)
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+        args.out = f"reports/report_parser_{ts}.json"
+    else:
+        os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
+
+with open(args.out, "w", encoding="utf-8") as f:
+    json.dump(report, f, indent=2, ensure_ascii=False)
+
+print(f"Report saved to: {args.out}")
+
 
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2, ensure_ascii=False)

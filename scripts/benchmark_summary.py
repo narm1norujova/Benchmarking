@@ -6,6 +6,8 @@ import sys
 import time
 from difflib import SequenceMatcher
 from typing import Any, Dict, List, Tuple
+import os
+from datetime import datetime
 
 _DIGITS_RE = re.compile(r"\D+")
 
@@ -38,16 +40,7 @@ def is_valid_hs10(code_digits: str) -> bool:
 
 
 def extract_pairs(obj: Dict[str, Any]) -> List[Tuple[str, str]]:
-    """
-    Expected:
-    {
-      "seller_name": "...",
-      "items": [
-        { "3816000009": "some summary text" }
-      ]
-    }
-    Returns list of (hs_code_digits, summary_text)
-    """
+
     pairs: List[Tuple[str, str]] = []
     items = obj.get("items", []) or []
     for it in items:
@@ -78,10 +71,8 @@ def evaluate(gt: Dict[str, Any], pred: Dict[str, Any], *, min_sim: float) -> Dic
 
     items_to_compare = min(n_gt, n_pr)
 
-    # HS validity (pred)
     pr_valid_hs10 = sum(1 for hs, _ in pr_pairs if is_valid_hs10(hs))
 
-    # Exact hs match + summary match (index-aligned)
     hs_exact = 0
     summary_match = 0
 
@@ -94,7 +85,6 @@ def evaluate(gt: Dict[str, Any], pred: Dict[str, Any], *, min_sim: float) -> Dic
 
     item_count_match = 1 if n_gt == n_pr else 0
 
-    # Percentages (normalized by GT count)
     return {
         "n_items": n_gt,
         "seller_pct": seller_match * 100.0,
@@ -111,7 +101,7 @@ def main():
     ap = argparse.ArgumentParser(description="Benchmark summary JSON")
     ap.add_argument("--gt", required=True)
     ap.add_argument("--pred", required=True)
-    ap.add_argument("--out", required=True)
+    ap.add_argument("--out", default=None)
     ap.add_argument("--min-sim", type=float, default=0.85)
     ap.add_argument("--price", default="$0.00")
     args = ap.parse_args()
@@ -125,7 +115,6 @@ def main():
         res = evaluate(gt, pr, min_sim=args.min_sim)
         elapsed = time.time() - t0
 
-        # IMPORTANT: report shape exactly like you asked
         report = {
             "n_items": res["n_items"],
             "seller_name": f"{res['seller_pct']:.2f} %",
@@ -139,6 +128,13 @@ def main():
         }
 
         print(json.dumps(report, ensure_ascii=False, indent=2))
+
+        if args.out is None:
+            os.makedirs("reports", exist_ok=True)
+            ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+            args.out = f"reports/report_summary_{ts}.json"
+        else:
+            os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
 
         with open(args.out, "w", encoding="utf-8") as f:
             json.dump(report, f, ensure_ascii=False, indent=2)

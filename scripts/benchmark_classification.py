@@ -3,6 +3,8 @@ import argparse
 import json
 import time
 from difflib import SequenceMatcher
+import os
+from datetime import datetime
 
 
 def process_file(file_path):
@@ -20,12 +22,7 @@ def compare_strings(y, pred, threshold=0.85):
 
 
 def build_path_map(obj):
-    """
-    Convert:
-      {"files":[{"type":"invoys","path":"/a.pdf"}]}
-    into:
-      {"/a.pdf": "invoys"}
-    """
+
     result = {}
     for f in obj.get("files", []):
         path = str(f.get("path", "")).strip()
@@ -82,7 +79,7 @@ def main():
     parser = argparse.ArgumentParser(description="Benchmark classification")
     parser.add_argument("--gt", required=True)
     parser.add_argument("--pred", required=True)
-    parser.add_argument("--out", required=True)
+    parser.add_argument("--out", default=None)
     args = parser.parse_args()
 
     start = time.time()
@@ -93,6 +90,13 @@ def main():
     report = evaluate(gt, pred)
 
     print(json.dumps(report, indent=2, ensure_ascii=False))
+
+    if args.out is None:
+        os.makedirs("reports", exist_ok=True)
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+        args.out = f"reports/report_classification_{ts}.json"
+    else:
+        os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
 
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2, ensure_ascii=False)
